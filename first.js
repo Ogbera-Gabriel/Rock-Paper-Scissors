@@ -47,7 +47,12 @@ function game() {
         } else if (result.includes('Lose')) {
             computerScore++;
         }
+
+        console.log('Player scores is ', playerScore)
+        console.log('A.I scores is ', computerScore)
     }
+
+    
     
     if (playerScore > computerScore) {
        alert('Congratulations! You win the game!');
@@ -56,6 +61,8 @@ function game() {
     } else {
         alert('It\'s a tie!');
     }
+
+    
 }
 
-game();
+
