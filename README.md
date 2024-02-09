@@ -28,4 +28,7 @@ This is a simple implementation of the classic Rock Paper Scissors game, played 
 - This game is played entirely in the console.
 - There is no graphical user interface provided.
 
+## Link
+- https://ogbera-gabriel.github.io/Rock-Paper-Scissors/
+
 Feel free to fork, modify, and use this code for educational purposes or as a base for your own projects!
