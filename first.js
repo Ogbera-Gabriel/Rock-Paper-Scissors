@@ -25,7 +25,6 @@ function playRound(playerSelection, computerSelection) {
 function cancelGame() {
     const cancel = confirm('Do you want to cancel the game?');
     if (cancel) {
-        alert('Game canceled.');
         return true; 
     } else {
         alert('Game continues.');
